@@ -1,4 +1,5 @@
 # Three.js Journey
+Using shadows with Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
